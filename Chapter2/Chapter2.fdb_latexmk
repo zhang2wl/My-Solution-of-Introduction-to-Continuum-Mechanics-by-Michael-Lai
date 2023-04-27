@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1682571231 "/Users/wenlongzhang/Documents/continuum_mechanics/Chapter2/Chapter2.tex" "Chapter2.pdf" "Chapter2" 1682571232 0
-  "/Users/wenlongzhang/Documents/continuum_mechanics/Chapter2/Chapter2.tex" 1682571231 1782 54bccc10085ebf9e3fc0c444f3326025 ""
+["pdflatex"] 1682571645 "/Users/wenlongzhang/Documents/continuum_mechanics/Chapter2/Chapter2.tex" "Chapter2.pdf" "Chapter2" 1682571646 0
+  "/Users/wenlongzhang/Documents/continuum_mechanics/Chapter2/Chapter2.tex" 1682571645 1747 84b42aabdd5ebd4ebfef792ce6e2d9f3 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -62,8 +62,8 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1682479952 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1682479929 7883451 620f1e3191d16c907392c7f092fddd4c ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "Chapter2.aux" 1682571231 112 d2ca28f0a8afe573a12973a007b9ea93 "pdflatex"
-  "Chapter2.tex" 1682571231 1782 54bccc10085ebf9e3fc0c444f3326025 ""
+  "Chapter2.aux" 1682571646 112 d2ca28f0a8afe573a12973a007b9ea93 "pdflatex"
+  "Chapter2.tex" 1682571645 1747 84b42aabdd5ebd4ebfef792ce6e2d9f3 ""
   (generated)
   "Chapter2.aux"
   "Chapter2.log"
