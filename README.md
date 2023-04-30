@@ -1,6 +1,6 @@
 # Introduction to Continuum Mechanics 4th Edition Solutions
 
-Hello fellow Continuum Mechanics enthusiasts! :wave: Welcome to this GitHub repository containing coding solutions to problems found in the textbook "Introduction to Continuum Mechanics 4th Edition" by Michael Lai, Erhard Krempl, and David Ruben. I have created these solutions using python and would love for you to join me in this journey of learning and exploring the fascinating world of Continuum Mechanics. :nerd_face: A theoretical solution can be found https://www.studocu.com/row/document/khalifa-university/continuum-mechanics/solutions-manual-continuum-mechanics-lai/7099919 and this repo provides the coding complementary. 
+Hello fellow Continuum Mechanics enthusiasts! :wave: Welcome to this GitHub repository containing coding solutions to problems found in the textbook "Introduction to Continuum Mechanics 4th Edition" by Michael Lai, Erhard Krempl, and David Ruben. I have created these solutions using python and would love for you to join me in this journey of learning and exploring the fascinating world of Continuum Mechanics. :nerd_face: A theoretical solution can be found https://www.studocu.com/row/document/khalifa-university/continuum-mechanics/solutions-manual-continuum-mechanics-lai/7099919 and this repo provides the jupyter notebook version of solution and also adds some coding complementary. 
 
 ## Getting Started
 
