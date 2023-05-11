@@ -8,23 +8,23 @@ This section covers basics about summation convention, dummy index, free index, 
 
 ### Summation and dummy index
 
-Einstein's summation convention. 
+Einstein's summation convention.
 
 <!-- equation with equal sign aligned btween multiple lines -->
 $$
 \begin{equation}
-\begin{aligned}
-s &= a_1x_1 + a_2x_2 + a_3x_3 \\
-  &= a_ix_i = a_jx_j = a_kx_k
-\end{aligned}
+  \begin{aligned}
+  s &= a_1x_1 + a_2x_2 + a_3x_3 \\
+    &= a_ix_i = a_jx_j = a_kx_k
+  \end{aligned}
 \end{equation}
 $$
 
 In Equation (1), $i, j, k$ are called dummy index because it does not matter which symbol we use. Summation convention can be used to express double sum, triple sum, and so on, for example:
 $$
-\begin{equation}
-α = a_{ij}x_ix_j
-\end{equation}
+  \begin{equation}
+    α = a_{ij}x_ix_j
+  \end{equation}
 $$
 
 <div align="center" style="border: 2px solid black; background-color: #F5F5F5; padding: 10px;">
