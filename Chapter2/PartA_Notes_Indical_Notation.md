@@ -89,7 +89,7 @@ $$
 ### Indicial Notation Manipulations
 
 1. **Substitution**
-Say we have $a_i = U_{im}b_{m}$ and $b_i = V_{im}c_m$, we can substitute $b_m$ and get $a_i = U_{im}V_{mn}c_n$. This equation have two sets of dummy indices thus there are two summations. This euqation has one free index thus it represents three equations.
+Say we have $a_i = U_{im}b_{m}$ and $b_i = V_{im}c_m$, we can substitute $b_m$ and get $a_i = U_{im}V_{mn}c_n$. This equation have two sets of dummy indices thus there are two summations. This euqation has one free index thus it represents three equations. <br>
 2. **Multiplication**
 If $p=a_m b_m$ and $q = c_m d_m$, thus $pq = a_m b_m c_n d_n$. It is important that dummy index should not appear more than twice in a term.
 3. **Factoring**
